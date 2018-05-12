@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9362'
     url: http://www.gutenberg.org/2009/agents/9362
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20531#Up-To-Date-Business--13-Home-Study-Circle-Library-Series--Volume-II.-
 gutenberg_issued: '2007-02-06'
 gutenberg_type: Text
 identifiers:
