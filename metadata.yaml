@@ -1,0 +1,28 @@
+_repo: Up-To-Date-Business--13-Home-Study-Circle-Library-Series--Volume-II.-_20531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Eaton, Seymour
+    birthdate: 1859
+    deathdate: 1916
+    gutenberg_agent_id: '9362'
+    url: http://www.gutenberg.org/2009/agents/9362
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Business'
+- !lcc 'HF'
+title: "Up To Date Business\r\nIncluding Lessons in Banking, Exchange, Business Geography,\
+  \ Finance, Transportation and Commercial Law\r\nHome Study Circle Library Series\
+  \ (Volume II.)"
+url: http://www.gutenberg.org/ebooks/20531
